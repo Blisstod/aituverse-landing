@@ -1,0 +1,58 @@
+{
+  "header": {
+    "title": "AITUVERSE: Your Virtual Learning Space",
+    "description": "Discover a revolutionizing university learning! Dive into a world where learning is not just comfortable but exciting and highly productive for everyone.",
+    "download": "Download Now"
+  },
+  "whyChoose": {
+    "title": "Why choose AITUVERSE?",
+    "reasons": {
+      "interactivity": {
+        "title": "Interactivity",
+        "description": "AITUVERSE offers the possibility of active interaction between teachers and students during virtual classes. This helps to create a more lively learning environment."
+      },
+      "uniqueness": {
+        "title": "Uniqueness",
+        "description": "The platform stands out for its features, which make the virtual learning process more exciting and interesting than the traditional one."
+      },
+      "engagement": {
+        "title": "Engagement",
+        "description": "The use of interactive boards allows students to actively participate, usage of chatting tools support communication, making learning more engaging."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Global virtual learning expands the boundaries of the concept of traditional education, making it effective and accessible to all."
+      }
+    }
+  },
+  "pricing": {
+    "title": "What are the prices?",
+    "plans": {
+      "basic": {
+        "title": "Basic",
+        "price": "$19/mo.",
+        "features": "Fast start your exploration with this level. Access to 2 beginner-level classes/mo., limited access to community forums, monthly newsletter with tips and updates, 24/7 email support."
+      },
+      "standard": {
+        "title": "Standard",
+        "price": "$49/mo.",
+        "features": "Everything in Basic, plus full access to live virtual classes, priority support for questions, exclusive access to bonus content, discounts on premium courses, getting branded merchandise."
+      },
+      "premium": {
+        "title": "Premium",
+        "price": "$99/mo.",
+        "features": "Everything in Standard, plus one-on-one sessions with experts, personalized feedback on assignments, early access to courses and updates, invitations to exclusive virtual events."
+      }
+    }
+  },
+  "footer": {
+    "cta": "Take The Next Step In Your Academic Journey",
+    "download": "Download Now",
+    "join": "Join our community",
+    "policies": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms and Conditions",
+      "cookies": "Cookies Policy"
+    }
+  }
+}
